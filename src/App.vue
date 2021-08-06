@@ -1,4 +1,4 @@
-git<template>
+<template>
   <div id="app">
     <div class="hello-world">
       <img alt="Vue logo" src="./assets/logo.png" />
