@@ -29,7 +29,7 @@ export default {
       inputTodo: "",
       todos: [
         {
-          text: "ひき肉を300g買う",
+          text: "ひき肉を200g買う",
           isDone: false,
         },
         {
